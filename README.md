@@ -1,2 +1,2 @@
 # questioninator
-random question  generator <link href='plasticomega.github.io/questioninator'>
+random question  generator <a href='plasticomega.github.io/questioninator'>live page</a>
